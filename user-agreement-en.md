@@ -3,7 +3,7 @@
 		<h2 class="mx-auto">Crypto Forecast Terms of Service</h2>
 	</div>
 	<div class="row">
-		<h6 class="mx-auto">Last revised: September 4, 2020</h6>
+		<h6 class="mx-auto">Last revised: September 30, 2020</h6>
 	</div>
 	<br>
 	<div class="row col-sm-8 mx-auto">
