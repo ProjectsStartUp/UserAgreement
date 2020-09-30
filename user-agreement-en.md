@@ -31,7 +31,7 @@
 					<li>
 						<p>
 							Registration. All users must apply to create a Crypto Forecast account at
-							(<a href="http://127.0.0.1:8000/account/register/" target="_blank">http://127.0.0.1/account/register/</a>)
+							(<a href="http://127.0.0.1:8000/account/register" target="_blank">http://127.0.0.1:8000/account/register</a>)
 							before using Crypto Forecast services. When registering for a Crypto Forecast account, you must provide your real name, email address and password, and accept these Terms, Privacy Policy and other rules of the Crypto Forecast platform. Crypto Forecast may, in its sole discretion, deny you the right to open a Crypto Forecast account. You agree to provide complete and accurate information when opening a Crypto Forecast account and agree to update any information you provide to Crypto Forecast in a timely manner to maintain the integrity and accuracy of the information. Only one User can be registered at a time, but each individual User (including any User who is a commercial or legal entity) can maintain only one main account at any one time. Institutional users (including users who are businesses and other legal entities) can open one or more subaccounts under the main account with the consent of Crypto Forecast.
 						</p>
 					</li>
